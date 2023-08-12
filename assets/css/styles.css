@@ -277,6 +277,7 @@ svg {
 }
 .home__description {
   margin-block: 1rem 1.5rem;
+  text-align: left;
 }
 .home__social {
   display: flex;
@@ -305,12 +306,12 @@ svg {
 }
 
 
-/*
+
 .home__img {
   width: 900px;
-  transform: translateX(-120px);
+  transform: translateX(-130px);
 }
-*/
+
 
 
 /*=============== BUTTON ===============*/
@@ -331,12 +332,14 @@ svg {
 /*=============== ABOUT ===============*/
 .about__container {
   row-gap: 2.5rem;
+  text-align: left;
 }
 .about__data {
-  text-align: center;
+  text-align: left;
 }
 .about__description {
   margin-bottom: 2rem;
+  text-align: left;
 }
 .about__image {
   justify-self: center;
