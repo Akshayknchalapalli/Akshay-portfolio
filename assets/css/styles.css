@@ -354,6 +354,7 @@ svg {
   background-color: var(--container-color);
 }
 .skills__container {
+  padding-left: 1rem;
   padding-bottom: 2rem;
   row-gap: 3.5rem ;
 }
