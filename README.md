@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
         git clone https://github.com/Akshayknchalapalli/Akshay-portfolio.git
 2. Open the project directory:
 
-        cd portfolio-website
+        cd Akshay-portfolio
 3. Open the `index.html` file in a web browser to view the website locally.
 
 ## Customization
