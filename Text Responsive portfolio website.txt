@@ -13,12 +13,10 @@ Hello, <span>I’m</span>
 Akshay Kunchalapalli
 
 .home__education
-Data Scientist
+Tech Alchemist
 
 .home__description
-With knowledge in Data Science and 
-machine learning, I offer the best projects resulting
-in quality work.
+"Welcome to my digital realm! I'm a Tech Alchemist with a passion for crafting innovative solutions that bridge the gaps between languages and technologies. With a versatile palette of programming languages including Python, Core Java, JavaScript, and a knack for web development using Flask and Django, I'm on a quest to turn ideas into reality. My journey involves delving into machine learning, orchestrating with Docker and Kubernetes, and conjuring DevOps magic. As a firm believer in the power of collaboration, I've also ventured into the world of open-source projects, adding my touch to the symphony of innovation. Join me in this enchanted journey of transforming concepts into technological marvels!"
 
 .button
 Let's Talk
@@ -40,7 +38,7 @@ My <span>Intro</span>
 About Me
 
 .about__description
-"Passionate and driven Data Science enthusiast with a proven track record of translating theoretical knowledge into practical solutions.Proficient in various programming languages, web technologies, and experienced in contributing to open-source projects."
+"Greetings! I'm Akshay, a Tech Alchemist and perpetual explorer of the digital universe. With a background in mechanical engineering and a heart that beats for data science, I've woven a tapestry of skills that traverse diverse programming languages like Python, Core Java, and JavaScript. I'm the architect behind web marvels, having conjured web applications using Flask and Django frameworks. But true magic lies in collaboration. I am a firm believer in the potency of shared innovation, and as such, I've ventured into the realm of open-source projects. Here, amidst the symphony of diverse minds, I add my unique notes, harmonizing with the grand melody of creation. Beyond the screens, I'm an avid problem-solver, an advocate for efficiency, and a disciple of continuous learning. Join me in unraveling the threads of technology as we weave together innovation and imagination, crafting solutions that resonate in this ever-evolving landscape. Let's explore, experiment, and engineer the future together! Welcome to my realm of creation, innovation, and infinite possibilities."
 
 .button
 Contact Me
@@ -63,7 +61,7 @@ See Projects
 .skills__item
 Java
 Python
-c++
+JavaScript
 HTML & CSS
 
 Git & GitHub
@@ -168,7 +166,7 @@ EmailJS team
 Akshay <span>Kunchalapalli</span>
 
 .footer__education
-Data Scientist 
+Tech Alchemist
 
 .footer__social-link
 https://www.facebook.com/
