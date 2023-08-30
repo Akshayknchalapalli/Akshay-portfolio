@@ -168,7 +168,7 @@ EmailJS team
 Akshay <span>Kunchalapalli</span>
 
 .footer__education
-Data Scientist 
+Tech Alchemist
 
 .footer__social-link
 https://www.facebook.com/
